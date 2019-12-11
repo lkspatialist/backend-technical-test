@@ -18,7 +18,7 @@ Nous souhaitons une api REST pour rechercher des films issues d'une base de donn
  Les routes demandées au minimum pour cet exercice vont permettre de :
  - Lister les films réalisé une personne donnée
  - Lister les films dans lesquels un acteur donné joue
- - Lister les acteurs d'un films
+ - Lister les acteurs d'un film
 
 Vous pouvez en créer d'autres si le coeur vous en dit.
 
@@ -37,7 +37,8 @@ Vous pouvez en créer d'autres si le coeur vous en dit.
 - Vous avez tous le temps que vous souhaitez pour le faire mais pas trop longtemps non plus 😆.
 - Vous pouvez ajouter des routes à l'API ou modifier les données de la base : ajout de film, d'acteur, selon vos goùts et votre humeur...
     
-ET SOURTOUT PAS DE STRESS, Y'A GOOGLE
+    
+**ET SOURTOUT PAS DE STRESS, Y'A GOOGLE**
 
 
 

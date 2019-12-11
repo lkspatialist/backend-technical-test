@@ -16,7 +16,7 @@ Nous souhaitons une api REST pour rechercher des films issues d'une base de donn
 - Le tout cofé en JAVA 8 et hébergé par une application Spring-Boot
  
  Les routes demandées au minimum pour cet exercice vont permettre de :
- - Lister les films réalisé une personne donnée
+ - Lister les films réalisés une personne donnée
  - Lister les films dans lesquels un acteur donné joue
  - Lister les acteurs d'un film
 

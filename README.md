@@ -30,9 +30,12 @@ Vous pouvez en créer d'autres si le coeur vous en dit.
  - Textes en français ou en anglais.
  -  Respecter le sujet et les critères obligatoires 😄
 
+
 ## Informations supplémentaires
 
 - La base données sera une base H2 dont le script d'initialisation est fourni (data.sql)
+
+
 - Vous avez le droit de poser des questions sur le test si c'est pas assez clair.
 - Vous avez tous le temps que vous souhaitez pour le faire mais pas trop longtemps non plus 😆.
 - Vous pouvez ajouter des routes à l'API ou modifier les données de la base : ajout de film, d'acteur, selon vos goùts et votre humeur...

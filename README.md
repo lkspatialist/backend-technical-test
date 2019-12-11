@@ -12,7 +12,7 @@ Le but de ce test est d'évaluer vos compétences techniques en frontend afin qu
 
 Nous souhaitons une api REST pour rechercher des films issues d'une base de données selon certains critères. Ce test permet d'implémenter différentes couches d'une application back, à savoir:
  - La couche d'accès aux données avec configuration de la base via un fichier .properties ou yml et abstraction de la base via des classes.
- - La couche REST avec définition des routes, appel à la couche données (on vous fait grâce de la couche métier vu la simplicité de l'architecture)
+ - La couche REST avec définition des routes, appel à la couche données (on vous fait grâce de la couche métier vu la simplicité du projet)
 - Le tout codé en JAVA 8 et hébergé par une application Spring-Boot
  
  Les routes demandées au minimum pour cet exercice vont permettre de :

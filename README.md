@@ -38,7 +38,7 @@ Vous pouvez en créer d'autres si le coeur vous en dit.
 - Vous pouvez ajouter des routes à l'API ou modifier les données de la base : ajout de film, d'acteur, selon vos goùts et votre humeur...
     
     
-**ET SOURTOUT PAS DE STRESS, Y'A GOOGLE**
+**ET SURTOUT PAS DE STRESS, Y'A GOOGLE**
 
 
 
